@@ -2,6 +2,6 @@
 
 $house = 'the apartment';
 
-echo $house
+echo $house;
 
 ?>
